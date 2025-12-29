@@ -1,3 +1,7 @@
+> 📌 This repository is a structured Python learning roadmap.
+> All program implementations are available here:
+> 👉 https://github.com/thejuspk07/My-python-basics
+
 ### 📘 Level 1 — Python Basics Programs
 
 | Program Name | Focus |
