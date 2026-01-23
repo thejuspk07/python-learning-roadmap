@@ -7,7 +7,7 @@
 | Program Name | Focus |
 | :--- | :--- |
 | `hello_world.py` | Print “Hello World” |
-| `name_college.py` | Print your name and college |
+| `name_college.py` | Print your name and college ||
 | `add_two_numbers.py` | Add two numbers |
 | `swap_numbers.py` | Swap two numbers |
 | `largest_two_three.py` | Largest of two and three numbers |
