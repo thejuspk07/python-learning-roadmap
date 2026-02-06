@@ -64,7 +64,7 @@
 
 #### List Programs
 
-| Program Name | Focus |
+| Program Name | Focus ||
 | :--- | :--- |
 | `list_sum_average.py` | Sum and average of list |
 | `list_max_min.py` | Max and min elements |
