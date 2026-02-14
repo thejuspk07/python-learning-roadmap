@@ -4,7 +4,7 @@
 
 ### 📘 Level 1 — Python Basics Programs
 
-| Program Name | Focus |\
+| Program Name | Focus |
 | :--- | :--- |
 | `hello_world.py` | Print “Hello World” ||
 | `name_college.py` | Print your name and college ||
